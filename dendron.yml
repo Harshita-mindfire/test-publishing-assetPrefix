@@ -11,7 +11,7 @@ site:
         - root
     siteRootDir: docs
     siteUrl: 'https://Harshita-mindfire.github.io'
-    assetsPrefix: /publish2
+    assetsPrefix: /test-publishing-assetPrefix
     usePrettyRefs: true
     title: Testing-2
     description: Personal knowledge space
